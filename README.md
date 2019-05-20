@@ -10,6 +10,6 @@ The full image should appear at the start and the quality will increase progress
 This allow to have lossless compression without affecting performances.
 Actually the user experience is improved since a preview of the image appears immediatly and the final quality is better
 
-
+##
 
 ---> FLIF does exactly that and does it well : https://github.com/FLIF-hub/FLIF
